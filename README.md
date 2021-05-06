@@ -39,6 +39,6 @@ Mozilla Firefox: [Mozilla](https://www.mozilla.org/pt-BR/firefox/new/)
 4. Em Import source, selecione a opção "Existing Maven Projects" e clique no botão "Next>";
 5. Em Import Maven Projects clique em "Browse" e selecione a pasta "automation-practice-aderson", clique no botão "Ok" e espere o projeto carregar;
 6. Após, clique em "automation-practice-aderson" e depois clique em "src/test/java";
-7. Clique no pacote "application.testsuites" e com o botão direito sobre o SuiteTestRegression.java e selecione "Run As" e após "JUnit Test";
+7. Clique no pacote "application.testSuites" e com o botão direito sobre o SuiteTestRegression.java e selecione "Run As" e após "JUnit Test";
 8. Espere so casos de testes serem executados no navegador web;
 9. Ao terminar e a barra de status do JUnit ficará verde, acesse a pasta do projeto e clique em "reports" e clique para abrir o report.html no navegador web, você poderá verificar o resultado gerado.
